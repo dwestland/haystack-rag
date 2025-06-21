@@ -1,0 +1,3 @@
+haystack-ai
+chroma-haystack
+python-dotenv 
